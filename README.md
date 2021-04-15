@@ -1,1 +1,1 @@
-# automatic-invention
+# inGa
